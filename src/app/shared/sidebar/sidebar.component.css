@@ -1,0 +1,11 @@
+.wraper {
+    border: solid;
+    z-index: 100;
+    position: fixed;
+    left: 60px;
+    width: 190px;
+    height: 100%;
+    margin-left: -65px;
+    overflow-y: auto;
+    background: #000000
+}
